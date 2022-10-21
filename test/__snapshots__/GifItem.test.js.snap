@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GridItem debe hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Yo soy el titulo"
+      src="https://one-punch.com/saitama.jpg"
+    />
+    <p>
+      Yo soy el titulo
+    </p>
+  </div>
+</div>
+`;
